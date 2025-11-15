@@ -42,11 +42,11 @@ Linux.do 自动浏览助手是一个 Tampermonkey 用户脚本，专门用于自
    - [Edge 版本](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 ### 安装步骤
-1.复制完整的脚本代码
-2.点击 Tampermonkey 图标，选择"添加新脚本"
-3.删除默认内容，粘贴复制的代码
-4.按 Ctrl+S 保存脚本
-5.访问 https://linux.do/ 即可开始使用
+1. 复制完整的脚本代码
+2. 点击 Tampermonkey 图标，选择"添加新脚本"
+3. 删除默认内容，粘贴复制的代码
+4. 按 Ctrl+S 保存脚本
+5. 访问 https://linux.do/ 即可开始使用
 
 ## 使用方法
 
