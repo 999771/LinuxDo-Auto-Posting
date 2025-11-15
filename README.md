@@ -35,17 +35,18 @@ Linux.do 自动浏览助手是一个 Tampermonkey 用户脚本，专门用于自
 
 ## 安装方法
 
-### 前提条件
+### 安装前提条件
 1. 安装 Tampermonkey 浏览器扩展
    - [Chrome 版本](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox 版本](https://addons.mozilla.org/firefox/addon/tampermonkey/)
    - [Edge 版本](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 ### 安装步骤
-1. 点击脚本文件（.user.js）的原始链接
-2. Tampermonkey 会自动检测并显示安装界面
-3. 点击"安装"按钮
-4. 脚本安装完成后，访问 `https://linux.do` 即可生效
+1.复制完整的脚本代码
+2.点击 Tampermonkey 图标，选择"添加新脚本"
+3.删除默认内容，粘贴复制的代码
+4.按 Ctrl+S 保存脚本
+5.访问 https://linux.do/ 即可开始使用
 
 ## 使用方法
 
